@@ -1,0 +1,151 @@
+[ {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Buffalo Sabres",
+  "win%" : "0.388"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Hartford Whalers",
+  "win%" : "0.388"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Minnesota North Stars",
+  "win%" : "0.338"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "New York Islanders",
+  "win%" : "0.312"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Quebec Nordiques",
+  "win%" : "0.2"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Toronto Maple Leafs",
+  "win%" : "0.287"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Vancouver Canucks",
+  "win%" : "0.35"
+}, {
+  "year" : "1990",
+  "epoch_time" : "1751306516",
+  "team_name" : "Winnipeg Jets",
+  "win%" : "0.325"
+}, {
+  "year" : "1991",
+  "epoch_time" : "1751306516",
+  "team_name" : "Buffalo Sabres",
+  "win%" : "0.388"
+}, {
+  "year" : "1991",
+  "epoch_time" : "1751306516",
+  "team_name" : "Calgary Flames",
+  "win%" : "0.388"
+}, {
+  "year" : "1991",
+  "epoch_time" : "1751306519",
+  "team_name" : "Hartford Whalers",
+  "win%" : "0.325"
+}, {
+  "year" : "1991",
+  "epoch_time" : "1751306519",
+  "team_name" : "Quebec Nordiques",
+  "win%" : "0.25"
+}, {
+  "year" : "1991",
+  "epoch_time" : "1751306519",
+  "team_name" : "San Jose Sharks",
+  "win%" : "0.212"
+}, {
+  "year" : "1991",
+  "epoch_time" : "1751306519",
+  "team_name" : "Toronto Maple Leafs",
+  "win%" : "0.375"
+}, {
+  "year" : "1992",
+  "epoch_time" : "1751306519",
+  "team_name" : "Edmonton Oilers",
+  "win%" : "0.31"
+}, {
+  "year" : "1992",
+  "epoch_time" : "1751306519",
+  "team_name" : "Hartford Whalers",
+  "win%" : "0.31"
+}, {
+  "year" : "1992",
+  "epoch_time" : "1751306522",
+  "team_name" : "Ottawa Senators",
+  "win%" : "0.119"
+}, {
+  "year" : "1992",
+  "epoch_time" : "1751306522",
+  "team_name" : "San Jose Sharks",
+  "win%" : "0.131"
+}, {
+  "year" : "1992",
+  "epoch_time" : "1751306522",
+  "team_name" : "Tampa Bay Lightning",
+  "win%" : "0.274"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306522",
+  "team_name" : "Mighty Ducks of Anaheim",
+  "win%" : "0.393"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306522",
+  "team_name" : "Edmonton Oilers",
+  "win%" : "0.298"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "Florida Panthers",
+  "win%" : "0.393"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "Hartford Whalers",
+  "win%" : "0.321"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "Los Angeles Kings",
+  "win%" : "0.321"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "Ottawa Senators",
+  "win%" : "0.167"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "San Jose Sharks",
+  "win%" : "0.393"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "Tampa Bay Lightning",
+  "win%" : "0.357"
+}, {
+  "year" : "1993",
+  "epoch_time" : "1751306525",
+  "team_name" : "Winnipeg Jets",
+  "win%" : "0.286"
+}, {
+  "year" : "1994",
+  "epoch_time" : "1751306525",
+  "team_name" : "Mighty Ducks of Anaheim",
+  "win%" : "0.333"
+}, {
+  "year" : "1994",
+  "epoch_time" : "1751306525",
+  "team_name" : "Dallas Stars",
+  "win%" : "0.354"
+} ]
