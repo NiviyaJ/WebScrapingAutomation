@@ -13,7 +13,7 @@ The project currently automates two primary test cases:
 
 ### 🧪 testCase01 – Scrape Hockey Team Data
 
-* Navigate to the specified website
+* Navigate to the website - https://www.scrapethissite.com/pages/
 * Click on **"Hockey Teams: Forms, Searching and Pagination"**
 * Iterate through the **table data** and extract:
 
@@ -33,7 +33,7 @@ The project currently automates two primary test cases:
 
 ### 🧪 testCase02 – Scrape Oscar-Winning Films
 
-* Navigate to the specified website
+* Navigate to the website - https://www.scrapethissite.com/pages/
 * Click on **"Oscar Winning Films"**
 * Click on **each year** presented
 * For each year:
